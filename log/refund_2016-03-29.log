@@ -1,0 +1,11 @@
+2016-03-29 13:04:12
+s:688:"<?xml version="1.0"?>
+<ReturnById xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.ipcommerce.com/CWS/v2.0/Transactions/Rest" i:type="ReturnById"><ApplicationProfileId>14644</ApplicationProfileId><BatchIds xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true"/><DifferenceData xmlns:ns1="http://schemas.ipcommerce.com/CWS/v2.0/Transactions/Bankcard" i:type="ns1:BankcardReturn"><ns2:TransactionId xmlns:ns2="http://schemas.ipcommerce.com/CWS/v2.0/Transactions">F498A1FD18B14D83B942684FD2873950</ns2:TransactionId><ns1:Amount>25.00</ns1:Amount></DifferenceData><MerchantProfileId>PrestaShop Global HC</MerchantProfileId></ReturnById>
+";
+-----------------------------------
+
+2016-03-29 13:04:15
+a:33:{s:6:"Status";s:10:"Successful";s:10:"StatusCode";s:3:"000";s:13:"StatusMessage";s:2:"AP";s:13:"TransactionId";s:32:"B4B4CC33CEAD4779905F2458AF58BDA6";s:23:"OriginatorTransactionId";s:5:"53605";s:20:"ServiceTransactionId";s:0:"";s:26:"ServiceTransactionDateTime";a:3:{s:4:"Date";s:10:"2016-03-29";s:4:"Time";s:8:"09:04:25";s:8:"TimeZone";s:0:"";}s:8:"Addendum";s:0:"";s:12:"CaptureState";s:8:"Captured";s:16:"TransactionState";s:17:"PartiallyReturned";s:14:"IsAcknowledged";s:5:"false";s:9:"Reference";s:3:"xyt";s:6:"Amount";s:5:"25.00";s:8:"CardType";s:6:"NotSet";s:9:"FeeAmount";s:1:"0";s:12:"ApprovalCode";s:6:"C17190";s:9:"AVSResult";s:0:"";s:7:"BatchId";s:4:"0999";s:8:"CVResult";s:6:"NotSet";s:9:"CardLevel";s:0:"";s:13:"DowngradeCode";s:0:"";s:9:"MaskedPAN";s:0:"";s:23:"PaymentAccountDataToken";s:72:"6f97b8e4-3c9a-4096-bf02-84a5ee7dcffb1870be2c-7b9c-4b83-80e1-a8e40f3c70b9";s:24:"RetrievalReferenceNumber";s:0:"";s:8:"Resubmit";s:11:"Unspecified";s:14:"SettlementDate";s:19:"0001-01-01T00:00:00";s:12:"FinalBalance";s:1:"0";s:7:"OrderId";s:5:"45052";s:14:"CashBackAmount";s:4:"0.00";s:11:"PrepaidCard";s:6:"NotSet";s:14:"AdviceResponse";s:6:"NotSet";s:22:"CommercialCardResponse";s:6:"NotSet";s:11:"ReturnedACI";s:6:"NotSet";}
+-----------------------------------
+
+

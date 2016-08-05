@@ -1,0 +1,31 @@
+#wp_velocity_form {
+    padding : 20px;
+}
+
+.velocity-table {
+    border : 1px solid #ccc;
+    padding : 10px;
+    box-shadow : 5px 5px 5px #888888;
+    margin-bottom : 0px;
+}
+
+.velocity-td {
+    width :175px !important;
+    padding : 8px !important;
+}
+
+.velocity-table input {
+    width : 400px;
+}
+
+.velocity-table input[type="password"] {
+    width : 100px;
+}
+
+.velocity-table select {
+    background : #f7f7f7 none repeat scroll 0 0;
+    border : 1px solid #d1d1d1;
+    border-radius : 2px;
+    color : #686868;
+    padding : 0.4em 0.4375em;
+}
